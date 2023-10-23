@@ -22,12 +22,14 @@ Here are some ideas to get you started:-->
 
   
 👯 **I’m Looking to Collaborate On:**
+
 I am open to collaborations that complement my current work:
 
 - Research and Technology
 - Software Development
 
 ⚡ **Fun fact:**
+
 I can wiggle my ears.
 
 📫 **How to reach me:**
